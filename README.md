@@ -169,8 +169,8 @@ Institut Spécialisé de Technologie Appliquée (ISTA), Salé *(2020 – 2022)*
 I’m always open to collaboration and knowledge exchange around AI, ML, and data-driven innovation.  
 Feel free to reach out or connect via:  
 
-📩 **Email:** [your.email@example.com](mailto:serghiniadam4@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/adam-serghini-767b47273)  
-💻 **GitHub:** [github.com/your-github](https://github.com/AdamSe22)  
+📩 **Email:** [serghiniadam4@gmail.com](mailto:serghiniadam4@gmail.com)  
+🔗 **LinkedIn:** [Adam Serghini](https://www.linkedin.com/in/adam-serghini-767b47273)  
+💻 **GitHub:** [AdamSe22](https://github.com/AdamSe22)  
 
  
