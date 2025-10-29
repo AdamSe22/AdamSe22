@@ -160,13 +160,6 @@ Institut Spécialisé de Technologie Appliquée (ISTA), Salé, Morocco
 
 ---
 
-## Languages
-
-- **Arabic**: Native
-- **French**: Fluent
-- **English**: Professional Working Proficiency
-
----
 
 ## Current Focus
 
